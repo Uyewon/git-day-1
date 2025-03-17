@@ -1,1 +1,1 @@
-# hello-git
+# Git day 1 - KB
